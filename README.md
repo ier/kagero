@@ -1,2 +1,2 @@
 # kagero
-Datomic app
+Datomic sandbox
